@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/NajibAZMI](https://github.com/NajibAZMI)
 
-- 💬 Ask me about **PHP,HTML,JS,C,C++,...**
+- 💬 Ask me about **PHP,HTML,C,C++,...**
 
 - 📫 How to reach me **najib.azmi2019@gmail.com**
 
