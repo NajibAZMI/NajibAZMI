@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [Weather Application](https://github.com/NajibAZMI/Weather-App)
+- 🔭 I’m currently working on [SmartHotelManagement Application](https://github.com/NajibAZMI/SmartHotelManagement)
 
 - 🌱 I’m currently learning **React Js , Java**
 
