@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [SmartHotelManagement Application](https://github.com/NajibAZMI/SmartHotelManagement)
+- 🔭 I’m currently working on [Fraud Detection System with Java, Kafka, and Flink](https://github.com/NajibAZMI/FraudDetect-RealTime-Banking-Flink-Java)
 
-- 🌱 I’m currently learning **React Js , Java**
+- 🌱 I’m currently learning **Java,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NajibAZMI](https://github.com/NajibAZMI)
 
