@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [Fraud Detection System with Java, Kafka, and Flink](https://github.com/NajibAZMI/FraudDetect-RealTime-Banking-Flink-Java)
+- 🔭 I’m currently working on [GeoPharmacy Find Pharmacies Near You with Java,  JAVAFx, and OpenStreetMa](https://github.com/NajibAZMI/GeoPharmacy-Find-Pharmacies-Near-You)
 
 - 🌱 I’m currently learning **Java,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NajibAZMI](https://github.com/NajibAZMI)
 
-- 💬 Ask me about **PHP,HTML,C,C++,...**
+- 💬 Ask me about **JAVA,PHP,HTML,C,C++,...**
 
 - 📫 How to reach me **najib.azmi2019@gmail.com**
 
