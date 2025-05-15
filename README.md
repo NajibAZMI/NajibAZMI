@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [GeoPharmacy Find Pharmacies Near You with Java,  JAVAFx, and OpenStreetMa](https://github.com/NajibAZMI/GeoPharmacy-Find-Pharmacies-Near-You)
 
-- 🌱 I’m currently learning **Java,Python**
+- 🌱 I’m currently learning **JEEE,Spring AND REACT js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NajibAZMI](https://github.com/NajibAZMI)
 
