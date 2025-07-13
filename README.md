@@ -21,13 +21,12 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [GeoPharmacy Find Pharmacies Near You with Java,  JAVAFx, and OpenStreetMa](https://github.com/NajibAZMI/GeoPharmacy-Find-Pharmacies-Near-You)
 
-- 🌱 I’m currently learning **JEEE,Spring AND REACT js**
+- 🌱 I’m currently learning **J2EE,Spring AND REACT js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NajibAZMI](https://github.com/NajibAZMI)
 
-- 💬 Ask me about **JAVA,PHP,HTML,C,C++,...**
+- 💬 Ask me about **JAVA,Spring Boot,PHP,C,C++,...**
 
 - 📫 How to reach me **najib.azmi2019@gmail.com**
 
