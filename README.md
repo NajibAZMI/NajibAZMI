@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **J2EE,Spring AND REACT js**
+- 🌱 I’m currently learning **Spring Boot AND REACT js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NajibAZMI](https://github.com/NajibAZMI)
 
