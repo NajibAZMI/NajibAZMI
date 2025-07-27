@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/NajibAZMI](https://github.com/NajibAZMI)
 
-- 💬 Ask me about **JAVA,Spring Boot,PHP,C,C++,...**
+- 💬 Ask me about **JAVA,Spring Boot,PHP,C++,...**
 
 - 📫 How to reach me **najib.azmi2019@gmail.com**
 
