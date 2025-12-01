@@ -136,173 +136,120 @@ console.log(najib.getPhilosophy());
 <tr>
 <td valign="top" width="33%">
 
-### Backend & Architecture
-```yaml
-Languages & Frameworks:
-  - Java 17 (Spring Boot)
-  - Python (Flask, Django)
-  - Node.js (Express)
-
-Architecture Patterns:
-  - Microservices
-  - Hexagonal Architecture
-  - Event-Driven Design
-  - REST & GraphQL APIs
-  - Domain-Driven Design
-
-Security:
-  - JWT Authentication
-  - OAuth2 & RBAC
-  - API Security
-```
+### 🔧 Backend & Architecture
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="45" height="45"/>
+</p>
 
 </td>
 <td valign="top" width="33%">
 
-### Frontend & Modern Web
-```yaml
-Frameworks & Libraries:
-  - React.js & Next.js
-  - JavaScript & TypeScript
-  - TailwindCSS
-  - HTML5 & CSS3
-
-State Management:
-  - Redux & Context API
-
-Testing:
-  - Cypress
-  - Selenium
-```
+### 🎨 Frontend & Modern Web
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
+</p>
 
 </td>
 <td valign="top" width="33%">
 
-### Cloud & DevOps
-```yaml
-Cloud Platforms:
-  - AWS (EKS, EC2, RDS, S3,
-         ElastiCache, Lambda)
-  - Azure (App Services, 
-          PostgreSQL)
-
-Containerization:
-  - Docker
-  - Kubernetes (K8s)
-
-CI/CD:
-  - Jenkins
-  - GitLab CI
-  - GitHub Actions
-
-IaC:
-  - Terraform (learning)
-```
+### ☁️ Cloud & DevOps
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="45" height="45"/>
+</p>
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="33%">
 
-### Big Data & Streaming
-```yaml
-Streaming Platforms:
-  - Apache Kafka
-  - Apache Flink
-
-Search & Analytics:
-  - Elasticsearch
-  - Kibana
-
-Data Processing:
-  - Real-time ETL
-  - Stream Processing
-```
+### 📊 Big Data & Streaming
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="flink" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="45" height="45"/>
+</p>
 
 </td>
 <td valign="top" width="33%">
 
-### AI & Machine Learning
-```yaml
-Frameworks:
-  - TensorFlow
-  - Scikit-learn
-  - PyTorch (basic)
-
-Applications:
-  - NLP & Text Analysis
-  - Fraud Detection
-  - Data Annotation
-  - Predictive Models
-```
+### 🤖 AI & Machine Learning
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
+</p>
 
 </td>
 <td valign="top" width="33%">
 
-### Databases & Caching
-```yaml
-SQL Databases:
-  - PostgreSQL (Advanced)
-  - MySQL
-  - Oracle
-  - SQL Server
-
-NoSQL & Caching:
-  - Redis
-  - MongoDB (basic)
-```
+### 💾 Databases & Caching
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="45" height="45"/>
+</p>
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="33%">
 
-### Monitoring & Testing
-```yaml
-Monitoring:
-  - Prometheus & Grafana
-  - ELK Stack
-  - AWS CloudWatch
-
-Testing:
-  - JUnit 5 & Mockito
-  - Pytest
-  - Postman
-  - Integration Testing
-```
+### 📈 Monitoring & Testing
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="junit" width="45" height="45"/>
+</p>
 
 </td>
 <td valign="top" width="33%">
 
-### Low-Code & Automation
-```yaml
-Platforms:
-  - Microsoft PowerApps
-  - Power Automate
-  - ServiceNow
-
-Applications:
-  - Business Process
-  - Workflow Automation
-  - SharePoint Integration
-```
+### ⚙️ Low-Code & Automation
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/000000/power-automate.png" alt="power-automate" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="excel" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/000000/sharepoint.png" alt="sharepoint" width="45" height="45"/>
+</p>
 
 </td>
 <td valign="top" width="33%">
 
-### Practices & Methodologies
-```yaml
-Methodologies:
-  - Agile/Scrum
-  - TDD & BDD
-  - Clean Code
-  - Code Review
-
-Tools:
-  - Git & GitHub
-  - Jira
-  - Confluence
-```
+### 🔨 Tools & Practices
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/>
+</p>
 
 </td>
 </tr>
